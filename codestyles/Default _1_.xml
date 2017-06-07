@@ -24,6 +24,7 @@
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
   </TypeScriptCodeStyleSettings>
   <XML>
+    <option name="XML_SPACE_INSIDE_EMPTY_TAG" value="true" />
     <option name="XML_LEGACY_SETTINGS_IMPORTED" value="true" />
   </XML>
   <editorconfig>
