@@ -1,0 +1,46 @@
+<templateSet group="JavaScript">
+  <template name="impfrom" value="import $NAME$ from '$PATH$';" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="PATH" expression="" defaultValue="" alwaysStopAt="true" />
+  </template>
+  <template name="mm" value="const mongoose = require('mongoose');&#10;const Schema = mongoose.Schema;&#10;&#10;const $name$Schema = new Schema(&#10;  {&#10;    $END$&#10;  },&#10;  {&#10;    timestamps: true&#10;  }&#10;);&#10;&#10;delete mongoose.models.$name$;&#10;module.exports = mongoose.model('$name$', $name$Schema);" shortcut="TAB" description="Create a mongoose schema" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="req" value="const $name$ = require('$path$');" shortcut="TAB" description="require" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="path" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="mfk" value="{type: Schema.Types.ObjectId, ref: '$model$', required: $required$}" shortcut="TAB" description="Mongo FK Type" toReformat="false" toShortenFQNames="true">
+    <variable name="model" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="required" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="region" value="// $name$&#10;// ===================================================================&#10;$END$" shortcut="TAB" description="" toReformat="false" toShortenFQNames="true">
+    <variable name="name" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+  <template name="prom" value="new Promise((resolve, reject) =&gt; {&#10;    $END$&#10;})" shortcut="TAB" description="promise" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+      <option name="TypeScript" value="true" />
+    </context>
+  </template>
+  <template name="styl" value="export const $NAME$ = styled($TYPE$)({&#10;    $END$&#10;});" description="styled component" toReformat="false" toShortenFQNames="true">
+    <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
+    <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
+    <context>
+      <option name="JAVA_SCRIPT" value="true" />
+    </context>
+  </template>
+</templateSet>
