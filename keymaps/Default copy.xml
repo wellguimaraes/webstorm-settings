@@ -4,6 +4,7 @@
     <keyboard-shortcut first-keystroke="shift alt back_space" />
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateTerminalToolWindow" />
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
@@ -93,6 +94,9 @@
   <action id="ToggleBookmark" />
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="Tool_External Tools_Bash">
+    <keyboard-shortcut first-keystroke="alt f12" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UsageView.Rerun" />
