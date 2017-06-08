@@ -9,8 +9,6 @@
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.test.js" />
     <recentFileMasks>
-      <mask>*.properties</mask>
-      <mask>*.html</mask>
       <mask>*.jsp</mask>
       <mask>*.xml</mask>
       <mask>*.java</mask>
@@ -36,6 +34,10 @@
       <mask>*te.jsx</mask>
       <mask>*test.jsx</mask>
       <mask>*test.js</mask>
+      <mask>*.test.jsx?</mask>
+      <mask>*.test.jsx</mask>
+      <mask>*.test.j</mask>
+      <mask>*.test.</mask>
       <mask>*.test.js</mask>
     </recentFileMasks>
   </component>
