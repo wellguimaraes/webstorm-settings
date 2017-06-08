@@ -3,8 +3,11 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="localRegularExpressions" value="true" />
+    <option name="regularExpressions" value="true" />
+    <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.test.js" />
     <recentFileMasks>
       <mask>*.properties</mask>
       <mask>*.html</mask>
@@ -30,6 +33,10 @@
       <mask>*.styles.js</mask>
       <mask>*.styles.jsx</mask>
       <mask>*styles.jsx</mask>
+      <mask>*te.jsx</mask>
+      <mask>*test.jsx</mask>
+      <mask>*test.js</mask>
+      <mask>*.test.js</mask>
     </recentFileMasks>
   </component>
 </application>
