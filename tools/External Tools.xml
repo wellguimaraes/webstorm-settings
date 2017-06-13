@@ -1,8 +1,22 @@
 <toolSet name="External Tools">
-  <tool name="Bash" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
+  <tool name="Bash" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="false">
     <exec>
       <option name="COMMAND" value="C:\Users\wguim\AppData\Local\wsltty\bin\mintty.exe" />
       <option name="PARAMETERS" value="--wsl --configdir=&quot;C:\Users\wguim\AppData\Roaming\wsltty&quot; -o Locale=C -o Charset=UTF-8 /bin/wslbridge -t /bin/bash" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Powershell" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="true" useConsole="true" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\Windows\System32\WindowsPowerShell\v1.0\powershell.exe" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
+    </exec>
+  </tool>
+  <tool name="Prettier" showInMainMenu="true" showInEditor="true" showInProject="true" showInSearchPopup="true" disabled="false" useConsole="false" showConsoleOnStdOut="false" showConsoleOnStdErr="false" synchronizeAfterRun="true">
+    <exec>
+      <option name="COMMAND" value="C:\dev\remy\insights-frontend\node_modules\.bin\prettier.cmd" />
+      <option name="PARAMETERS" value="--write --single-quote --trailing-comma all $FilePathRelativeToProjectRoot$" />
       <option name="WORKING_DIRECTORY" value="$ProjectFileDir$" />
     </exec>
   </tool>
