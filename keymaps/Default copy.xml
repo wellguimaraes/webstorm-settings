@@ -39,13 +39,13 @@
     <keyboard-shortcut first-keystroke="shift ctrl t" />
     <mouse-shortcut keystroke="alt button1" />
   </action>
+  <action id="IntroduceField" />
   <action id="MoveElementLeft" />
   <action id="MoveElementRight" />
   <action id="NextEditorTab" />
   <action id="NextTab" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
-  <action id="ReformatCode" />
   <action id="Refresh" />
   <action id="Rerun" />
   <action id="RunClass">
@@ -96,7 +96,7 @@
     <keyboard-shortcut first-keystroke="f11" />
   </action>
   <action id="Tool_External Tools_Prettier">
-    <keyboard-shortcut first-keystroke="ctrl alt l" />
+    <keyboard-shortcut first-keystroke="ctrl alt f" />
   </action>
   <action id="UML.ApplyCurrentLayout" />
   <action id="UsageView.Rerun" />
