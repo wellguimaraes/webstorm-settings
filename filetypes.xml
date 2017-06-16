@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="mocha-snapshot" type="JavaScript" />
       <mapping ext="opts" type="PLAIN_TEXT" />
+      <mapping ext="mjml" type="XML" />
     </extensionMap>
   </component>
 </application>
