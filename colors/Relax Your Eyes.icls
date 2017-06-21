@@ -480,7 +480,6 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="0" />
-        <option name="BACKGROUND" value="ececec" />
       </value>
     </option>
     <option name="TEXT_SEARCH_RESULT_ATTRIBUTES">
