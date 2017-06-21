@@ -95,6 +95,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
+    <option name="JS.CLASS">
+      <value>
+        <option name="FOREGROUND" value="0" />
+      </value>
+    </option>
     <option name="JS.GLOBAL_VARIABLE">
       <value>
         <option name="FOREGROUND" value="81459d" />
@@ -120,6 +125,24 @@
     <option name="TEXT">
       <value>
         <option name="FOREGROUND" value="4f4f4f" />
+        <option name="BACKGROUND" value="ffffff" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_NAME">
+      <value>
+        <option name="FOREGROUND" value="ab52cc" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="c2b7b2" />
+      </value>
+    </option>
+    <option name="XML_TAG">
+      <value />
+    </option>
+    <option name="XML_TAG_NAME">
+      <value>
         <option name="BACKGROUND" value="ffffff" />
       </value>
     </option>

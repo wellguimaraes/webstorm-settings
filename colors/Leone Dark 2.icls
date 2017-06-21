@@ -1,5 +1,5 @@
 <scheme name="Leone Dark 2" version="142" parent_scheme="Default">
-  <option name="LINE_SPACING" value="1.0" />
+  <option name="FONT_SCALE" value="1.0" />
   <option name="EDITOR_FONT_SIZE" value="12" />
   <option name="EDITOR_FONT_NAME" value="Monospaced" />
   <colors>
@@ -682,6 +682,11 @@
       <value>
         <option name="FOREGROUND" value="9eca84" />
         <option name="BACKGROUND" value="282c34" />
+      </value>
+    </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="d7a471" />
       </value>
     </option>
     <option name="XML_NS_PREFIX">

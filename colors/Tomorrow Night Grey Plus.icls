@@ -690,6 +690,11 @@
         <option name="FOREGROUND" value="bc3f3c" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="b5bd68" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>

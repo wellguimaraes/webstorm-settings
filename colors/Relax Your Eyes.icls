@@ -506,6 +506,12 @@
         <option name="ERROR_STRIPE_COLOR" value="b186ff" />
       </value>
     </option>
+    <option name="XML_ATTRIBUTE_VALUE">
+      <value>
+        <option name="FOREGROUND" value="0" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
     <option name="XML_PROLOGUE" baseAttributes="TEXT" />
   </attributes>
 </scheme>
