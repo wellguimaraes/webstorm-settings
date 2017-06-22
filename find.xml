@@ -5,14 +5,8 @@
     <option name="localRegularExpressions" value="true" />
     <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*reducer.js" />
     <recentFileMasks>
-      <mask>*.test.j</mask>
-      <mask>*.test.js</mask>
-      <mask>*.test.</mask>
-      <mask>*.test</mask>
-      <mask>*.tes</mask>
-      <mask>*.te</mask>
-      <mask>*.t</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
@@ -36,6 +30,13 @@
       <mask>*F.jsx</mask>
       <mask>*Fo.jsx</mask>
       <mask>*Form.jsx</mask>
+      <mask>*r.jsx</mask>
+      <mask>*re.jsx</mask>
+      <mask>*redu.jsx</mask>
+      <mask>*reduc.jsx</mask>
+      <mask>*reduce.jsx</mask>
+      <mask>*reducer.jsx</mask>
+      <mask>*reducer.js</mask>
     </recentFileMasks>
   </component>
 </application>
