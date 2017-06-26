@@ -1,0 +1,5 @@
+<keymap version="1" name="Default for XWin copy 0" parent="Default for XWin">
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
+</keymap>
