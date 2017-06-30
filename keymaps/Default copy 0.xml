@@ -2,11 +2,20 @@
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
+  <action id="Diff.SelectedChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
+  </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
