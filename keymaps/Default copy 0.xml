@@ -1,16 +1,25 @@
 <keymap version="1" name="Default copy 0" parent="$default">
+  <action id="$Redo">
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+    <keyboard-shortcut first-keystroke="shift alt back_space" />
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.SelectedChange" />
+  <action id="Editor Redo">
+    <keyboard-shortcut first-keystroke="ctrl y" />
+  </action>
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
+  <action id="EditorDeleteLine" />
   <action id="FileChooser.NewFolder">
     <keyboard-shortcut first-keystroke="alt insert" />
   </action>
