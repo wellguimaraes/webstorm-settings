@@ -3,23 +3,15 @@
     <option name="caseSensitive" value="true" />
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
-    <option name="localRegularExpressions" value="true" />
     <option name="CASE_SENSITIVE_SEARCH" value="true" />
-    <option name="LOCAL_REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.e2e.js" />
     <recentFileMasks>
-      <mask>*.styles.</mask>
-      <mask>*.styles.j</mask>
-      <mask>*.styles.js</mask>
-      <mask>*</mask>
-      <mask>*R</mask>
-      <mask>*Re</mask>
       <mask>*Redu</mask>
       <mask>*Reduc</mask>
       <mask>*Reduce</mask>
       <mask>*Reducer.</mask>
       <mask>*Reducer.js</mask>
-      <mask>*.</mask>
       <mask>*.jsx</mask>
       <mask>*Fr.jsx</mask>
       <mask>*F.jsx</mask>
@@ -34,10 +26,17 @@
       <mask>*reducer.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.s</mask>
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
+      <mask>*.s</mask>
+      <mask>*.</mask>
+      <mask>*.ex</mask>
+      <mask>*.e</mask>
+      <mask>*.e2</mask>
+      <mask>*.e2e</mask>
+      <mask>*.e2e.</mask>
+      <mask>*.e2e.js</mask>
     </recentFileMasks>
   </component>
 </application>
