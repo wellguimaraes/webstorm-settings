@@ -5,7 +5,6 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
-    <option name="FILE_MASK" value="*.styles.js" />
     <recentFileMasks>
       <mask>*Reducer.js</mask>
       <mask>*.jsx</mask>
@@ -22,15 +21,15 @@
       <mask>*reducer.js</mask>
       <mask>*.js</mask>
       <mask>*.j</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
       <mask>*.ex</mask>
       <mask>*.e</mask>
       <mask>*.e2</mask>
       <mask>*.e2e.js</mask>
       <mask>*.e2e.</mask>
       <mask>*.e2e</mask>
+      <mask>*.sc</mask>
+      <mask>*.scs</mask>
+      <mask>*.scss</mask>
       <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.sty</mask>
