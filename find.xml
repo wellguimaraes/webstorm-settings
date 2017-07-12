@@ -5,12 +5,8 @@
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.jsx" />
     <recentFileMasks>
-      <mask>*Reducer.js</mask>
-      <mask>*.jsx</mask>
-      <mask>*Fr.jsx</mask>
-      <mask>*F.jsx</mask>
-      <mask>*Fo.jsx</mask>
       <mask>*Form.jsx</mask>
       <mask>*r.jsx</mask>
       <mask>*re.jsx</mask>
@@ -36,6 +32,11 @@
       <mask>*.style</mask>
       <mask>*.styles.</mask>
       <mask>*.styles.js</mask>
+      <mask>.</mask>
+      <mask>.j</mask>
+      <mask>.js</mask>
+      <mask>.jsx</mask>
+      <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
 </application>
