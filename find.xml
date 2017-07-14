@@ -4,9 +4,6 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*Form.jsx</mask>
-      <mask>*r.jsx</mask>
-      <mask>*re.jsx</mask>
       <mask>*redu.jsx</mask>
       <mask>*reduc.jsx</mask>
       <mask>*reduce.jsx</mask>
@@ -33,6 +30,9 @@
       <mask>.j</mask>
       <mask>.js</mask>
       <mask>.jsx</mask>
+      <mask>T*.jsx</mask>
+      <mask>To*.jsx</mask>
+      <mask>Todo*.jsx</mask>
       <mask>*.jsx</mask>
     </recentFileMasks>
   </component>
