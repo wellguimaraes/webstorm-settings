@@ -30,6 +30,9 @@
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl n" />
   </action>
+  <action id="SurroundWithEmmet">
+    <keyboard-shortcut first-keystroke="shift ctrl comma" />
+  </action>
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
