@@ -3,10 +3,8 @@
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="*.styles.js" />
     <recentFileMasks>
-      <mask>*redu.jsx</mask>
-      <mask>*reduc.jsx</mask>
-      <mask>*reduce.jsx</mask>
       <mask>*reducer.jsx</mask>
       <mask>*reducer.js</mask>
       <mask>*.js</mask>
@@ -20,12 +18,6 @@
       <mask>*.sc</mask>
       <mask>*.scs</mask>
       <mask>*.scss</mask>
-      <mask>*.</mask>
-      <mask>*.s</mask>
-      <mask>*.sty</mask>
-      <mask>*.style</mask>
-      <mask>*.styles.</mask>
-      <mask>*.styles.js</mask>
       <mask>.</mask>
       <mask>.j</mask>
       <mask>.js</mask>
@@ -34,6 +26,15 @@
       <mask>To*.jsx</mask>
       <mask>Todo*.jsx</mask>
       <mask>*.jsx</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.s</mask>
+      <mask>*.st</mask>
+      <mask>*.sty</mask>
+      <mask>*.style</mask>
+      <mask>*.styles</mask>
+      <mask>*.styles.</mask>
+      <mask>*.styles.js</mask>
     </recentFileMasks>
   </component>
 </application>
