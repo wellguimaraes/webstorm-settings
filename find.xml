@@ -2,15 +2,10 @@
   <component name="FindSettings">
     <option name="customScope" value="All Places" />
     <option name="defaultScopeName" value="All Places" />
+    <option name="wholeWordsOnly" value="true" />
+    <option name="WHOLE_WORDS_ONLY" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*reducer.jsx</mask>
-      <mask>*reducer.js</mask>
-      <mask>*.js</mask>
-      <mask>*.j</mask>
-      <mask>*.ex</mask>
-      <mask>*.e</mask>
-      <mask>*.e2</mask>
       <mask>*.e2e.js</mask>
       <mask>*.e2e.</mask>
       <mask>*.e2e</mask>
@@ -34,6 +29,13 @@
       <mask>*.styles</mask>
       <mask>*.styles.</mask>
       <mask>*.styles.js</mask>
+      <mask>w</mask>
+      <mask>we</mask>
+      <mask>web</mask>
+      <mask>webpa</mask>
+      <mask>webpack</mask>
+      <mask>webpack.</mask>
+      <mask>webpack.*</mask>
     </recentFileMasks>
   </component>
 </application>
