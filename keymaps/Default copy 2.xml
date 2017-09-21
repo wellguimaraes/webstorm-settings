@@ -1,14 +1,23 @@
 <keymap version="1" name="Default copy 2" parent="$default">
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
+  <action id="Diff.SelectedChange" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
   <action id="EditorCloneCaretBelow">
     <keyboard-shortcut first-keystroke="shift ctrl alt down" />
   </action>
+  <action id="FileChooser.NewFolder">
+    <keyboard-shortcut first-keystroke="alt insert" />
+  </action>
+  <action id="GotoChangedFile" />
+  <action id="GotoClass" />
   <action id="NextTab" />
   <action id="PreviousTab" />
+  <action id="SearchEverywhere">
+    <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="alt left" />
   </action>
