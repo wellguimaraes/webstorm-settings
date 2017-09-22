@@ -3,7 +3,6 @@
     <extensionMap>
       <mapping ext="sequelizerc" type="JavaScript" />
       <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
-      <mapping ext="md" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
     </extensionMap>
   </component>
