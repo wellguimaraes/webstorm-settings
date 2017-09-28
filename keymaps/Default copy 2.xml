@@ -5,6 +5,10 @@
   <action id="$Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="ActivateMessagesToolWindow" />
+  <action id="ActivatenpmToolWindow">
+    <keyboard-shortcut first-keystroke="alt 0" />
+  </action>
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.SelectedChange" />
