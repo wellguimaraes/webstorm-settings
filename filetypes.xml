@@ -1,14 +1,13 @@
 <application>
   <component name="FileTypeManager" version="17">
     <extensionMap>
-      <mapping ext="sequelizerc" type="JavaScript" />
-      <mapping pattern="lein" type="PLAIN_TEXT" />
+      <mapping pattern=".sequelizerc" type="JavaScript" />
       <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
       <mapping pattern=".gitignore.tpl" type="PLAIN_TEXT" />
-      <mapping pattern=".sequelizerc" type="PLAIN_TEXT" />
+      <mapping pattern="lein" type="PLAIN_TEXT" />
       <mapping ext="klv" type="PLAIN_TEXT" />
-      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
+      <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="fnc" type="DBN-PSQL" />
       <mapping ext="pkb" type="DBN-PSQL" />
       <mapping ext="pkg" type="DBN-PSQL" />
