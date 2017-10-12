@@ -6,22 +6,11 @@
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <recentFileMasks>
-      <mask>*.e2e.js</mask>
-      <mask>*.e2e.</mask>
-      <mask>*.e2e</mask>
-      <mask>*.sc</mask>
-      <mask>*.scs</mask>
-      <mask>*.scss</mask>
-      <mask>.</mask>
-      <mask>.j</mask>
-      <mask>.js</mask>
       <mask>.jsx</mask>
       <mask>T*.jsx</mask>
       <mask>To*.jsx</mask>
       <mask>Todo*.jsx</mask>
       <mask>*.jsx</mask>
-      <mask>*</mask>
-      <mask>*.</mask>
       <mask>*.s</mask>
       <mask>*.st</mask>
       <mask>*.sty</mask>
@@ -36,6 +25,17 @@
       <mask>webpack</mask>
       <mask>webpack.</mask>
       <mask>webpack.*</mask>
+      <mask>.</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.gr</mask>
+      <mask>*.grap</mask>
+      <mask>*.graph</mask>
+      <mask>*.graphq</mask>
+      <mask>*.graphql</mask>
+      <mask>*.graphql.</mask>
+      <mask>*.graphql.j</mask>
+      <mask>*.graphql.js</mask>
     </recentFileMasks>
   </component>
 </application>
