@@ -36,7 +36,7 @@
       <option name="TypeScript" value="true" />
     </context>
   </template>
-  <template name="styl" value="export const $NAME$ = styled($TYPE$)({&#10;    $END$&#10;});" description="styled component" toReformat="false" toShortenFQNames="true">
+  <template name="styl" value="export const $NAME$ = styled($TYPE$)`&#10;  $END$&#10;`" description="styled component" toReformat="false" toShortenFQNames="true">
     <variable name="NAME" expression="" defaultValue="" alwaysStopAt="true" />
     <variable name="TYPE" expression="" defaultValue="" alwaysStopAt="true" />
     <context>
