@@ -29,10 +29,18 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="NextEditorTab" />
   <action id="NextTab" />
+  <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
   <action id="SearchEverywhere">
     <keyboard-shortcut first-keystroke="ctrl n" />
+  </action>
+  <action id="TabShiftActions.MoveFocusLeft">
+    <keyboard-shortcut first-keystroke="shift alt left" />
+  </action>
+  <action id="TabShiftActions.MoveFocusRight">
+    <keyboard-shortcut first-keystroke="shift alt right" />
   </action>
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="alt left" />
