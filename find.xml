@@ -5,26 +5,10 @@
     <option name="localCaseSensitive" value="true" />
     <option name="LOCAL_CASE_SENSITIVE_SEARCH" value="true" />
     <option name="SEARCH_SCOPE" value="All Places" />
+    <option name="FILE_MASK" value="webpack.*.dev.js" />
     <recentFileMasks>
-      <mask>.jsx</mask>
-      <mask>T*.jsx</mask>
-      <mask>To*.jsx</mask>
-      <mask>Todo*.jsx</mask>
-      <mask>*.jsx</mask>
-      <mask>*.s</mask>
-      <mask>*.st</mask>
-      <mask>*.sty</mask>
-      <mask>*.style</mask>
-      <mask>*.styles</mask>
       <mask>*.styles.</mask>
       <mask>*.styles.js</mask>
-      <mask>w</mask>
-      <mask>we</mask>
-      <mask>web</mask>
-      <mask>webpa</mask>
-      <mask>webpack</mask>
-      <mask>webpack.</mask>
-      <mask>webpack.*</mask>
       <mask>.</mask>
       <mask>*</mask>
       <mask>*.</mask>
@@ -36,6 +20,23 @@
       <mask>*.graphql.</mask>
       <mask>*.graphql.j</mask>
       <mask>*.graphql.js</mask>
+      <mask>w</mask>
+      <mask>wen</mask>
+      <mask>we</mask>
+      <mask>web</mask>
+      <mask>webp</mask>
+      <mask>webpa</mask>
+      <mask>webpac</mask>
+      <mask>webpack</mask>
+      <mask>webpack.</mask>
+      <mask>webpack.*</mask>
+      <mask>webpack.*.</mask>
+      <mask>webpack.*.d</mask>
+      <mask>webpack.*.de</mask>
+      <mask>webpack.*.dev</mask>
+      <mask>webpack.*.dev.</mask>
+      <mask>webpack.*.dev.j</mask>
+      <mask>webpack.*.dev.js</mask>
     </recentFileMasks>
   </component>
 </application>
