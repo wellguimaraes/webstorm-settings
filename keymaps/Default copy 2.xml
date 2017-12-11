@@ -6,6 +6,10 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="ActivatenpmToolWindow">
     <keyboard-shortcut first-keystroke="alt 0" />
   </action>
