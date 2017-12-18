@@ -60,6 +60,7 @@
   <action id="NextTab" />
   <action id="PreviousEditorTab" />
   <action id="PreviousTab" />
+  <action id="ReformatCode" />
   <action id="RenameElement">
     <keyboard-shortcut first-keystroke="shift f6" />
     <keyboard-shortcut first-keystroke="shift context_menu" />
@@ -80,6 +81,10 @@
   <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
   </action>
+  <action id="Tool_External Tools_Prettier">
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
+  <action id="Vcs.ReformatCommitMessage" />
   <action id="VcsShowNextChangeMarker" />
   <action id="VcsShowPrevChangeMarker" />
   <action id="XDebugger.MoveWatchDown" />
