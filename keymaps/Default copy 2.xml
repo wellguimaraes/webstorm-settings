@@ -16,12 +16,14 @@
   <action id="Arrangement.Rule.Group.Condition.Move.Up" />
   <action id="Arrangement.Rule.Match.Condition.Move.Down" />
   <action id="Arrangement.Rule.Match.Condition.Move.Up" />
+  <action id="CollapseSelection" />
   <action id="Diff.NextChange" />
   <action id="Diff.PrevChange" />
   <action id="Diff.SelectedChange" />
   <action id="Editor Redo">
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
+  <action id="EditorChooseLookupItemDot" />
   <action id="EditorCloneCaretAbove">
     <keyboard-shortcut first-keystroke="shift ctrl alt up" />
   </action>
@@ -54,6 +56,10 @@
   </action>
   <action id="GotoChangedFile" />
   <action id="GotoClass" />
+  <action id="GotoNextError">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="ctrl period" />
+  </action>
   <action id="MethodDown" />
   <action id="MethodUp" />
   <action id="NextEditorTab" />
