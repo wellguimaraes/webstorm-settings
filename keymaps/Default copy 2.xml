@@ -82,9 +82,11 @@
   </action>
   <action id="TabShiftActions.ShiftLeft">
     <keyboard-shortcut first-keystroke="ctrl open_bracket" />
+    <keyboard-shortcut first-keystroke="alt open_bracket" />
   </action>
   <action id="TabShiftActions.ShiftRight">
     <keyboard-shortcut first-keystroke="ctrl close_bracket" />
+    <keyboard-shortcut first-keystroke="alt close_bracket" />
   </action>
   <action id="Tool_External Tools_Prettier">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
