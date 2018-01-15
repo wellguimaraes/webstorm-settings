@@ -1,16 +1,17 @@
-<code_scheme name="Default">
+<code_scheme name="Default" version="173">
   <option name="FORMATTER_TAGS_ENABLED" value="true" />
   <JSCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
     <option name="FORCE_SEMICOLON_STYLE" value="true" />
+    <option name="ALIGN_VAR_STATEMENTS" value="2" />
     <option name="USE_DOUBLE_QUOTES" value="false" />
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="ENFORCE_TRAILING_COMMA" value="Remove" />
+    <option name="IMPORTS_WRAP" value="2" />
     <option name="SPACES_WITHIN_OBJECT_LITERAL_BRACES" value="true" />
     <option name="SPACES_WITHIN_IMPORTS" value="true" />
     <option name="SPACES_WITHIN_INTERPOLATION_EXPRESSIONS" value="true" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </JSCodeStyleSettings>
   <TypeScriptCodeStyleSettings>
     <option name="USE_SEMICOLON_AFTER_STATEMENT" value="false" />
@@ -19,7 +20,6 @@
     <option name="FORCE_QUOTE_STYlE" value="true" />
     <option name="IMPORT_MERGE_MEMBERS" value="FALSE" />
     <option name="IMPORT_PREFER_ABSOLUTE_PATH" value="TRUE" />
-    <option name="IMPORT_USE_NODE_RESOLUTION" value="TRUE" />
   </TypeScriptCodeStyleSettings>
   <codeStyleSettings language="JavaScript">
     <option name="SPACE_WITHIN_BRACKETS" value="true" />
