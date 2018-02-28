@@ -6,6 +6,9 @@
     <keyboard-shortcut first-keystroke="ctrl y" />
   </action>
   <action id="ActivateMessagesToolWindow" />
+  <action id="ActivateRESTClientToolWindow">
+    <keyboard-shortcut first-keystroke="alt r" />
+  </action>
   <action id="ActivateTerminalToolWindow">
     <keyboard-shortcut first-keystroke="alt f12" />
     <keyboard-shortcut first-keystroke="alt t" />
