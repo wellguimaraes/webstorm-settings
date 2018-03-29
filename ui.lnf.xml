@@ -26,6 +26,7 @@
       <NestingRule child-file-suffix=".flow.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".props.js" parent-file-suffix=".js" />
       <NestingRule child-file-suffix=".md" parent-file-suffix=".js" />
+      <NestingRule child-file-suffix=".js" parent-file-suffix=".jsg" />
       <NestingRule child-file-suffix=".js" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".js.map" parent-file-suffix=".jsx" />
       <NestingRule child-file-suffix=".css" parent-file-suffix=".less" />

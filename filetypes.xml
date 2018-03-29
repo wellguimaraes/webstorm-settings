@@ -2,14 +2,14 @@
   <component name="FileTypeManager" version="17">
     <extensionMap>
       <mapping pattern=".sequelizerc" type="JavaScript" />
-      <mapping ext="gen" type="JavaScript" />
+      <mapping ext="jsg" type="JavaScript" />
       <mapping ext="afdesign" type="Native" />
-      <mapping pattern="teste" type="PLAIN_TEXT" />
-      <mapping pattern="lein" type="PLAIN_TEXT" />
-      <mapping pattern=".env.development" type="PLAIN_TEXT" />
-      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
-      <mapping pattern=".gitignore.tpl" type="PLAIN_TEXT" />
       <mapping pattern=".yarnignore" type="PLAIN_TEXT" />
+      <mapping pattern="teste" type="PLAIN_TEXT" />
+      <mapping pattern=".gitignore.tpl" type="PLAIN_TEXT" />
+      <mapping pattern="lein" type="PLAIN_TEXT" />
+      <mapping pattern=".gitkeep" type="PLAIN_TEXT" />
+      <mapping pattern=".env.development" type="PLAIN_TEXT" />
       <mapping ext="klv" type="PLAIN_TEXT" />
       <mapping ext="out" type="PLAIN_TEXT" />
       <mapping ext="env" type="PLAIN_TEXT" />
